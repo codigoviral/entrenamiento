@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+#capa {padding: 1em; background-color: #f80;}
+#mensaje {display: none;}
+#efectos {background-color:#963; color:#fff; padding:2em;}
+.bordes {border: thin grey dotted; width:150px; height:150px;
+padding: .5em;}
+#dialogo {display:none;}
+#draggable { width: 150px; height: 150px; padding: 0.5em; border:solid black thin; }
